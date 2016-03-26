@@ -1,0 +1,30 @@
+{
+  "context": "client",
+  "identifier": "nl.pa.andreasg.ffa_map_pack",
+  "display_name": "FFA Map Pack",
+  "description": "FFA Maps from the very best AndreasG, AdmiralGeneral, N30N and Qzipco",
+  "author": "andreasurne, N00N, wmurderface, Qzipco",
+  "version": "1.0.0",
+  "build": "89528",
+  "date": "2016/03/26",
+  "signature": "not yet implemented",
+  "forum": "",
+  "icon": "http://s30.postimg.org/poj8u5uwh/Hemingway_portrait.jpg",
+  "category": [
+	  "map",
+	  "pack",
+	  "maps",
+	  "system",
+	  "planets",
+	  "planet",
+	  "systems"
+    ],
+    "load_planet": [
+        "coui://ui/mods/ffa_map_pack/maplist.js"
+    ],
+	"priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
