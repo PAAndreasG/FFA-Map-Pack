@@ -3,7 +3,7 @@
     "creator": "Qzipco",
     "version": "1.0",
     "date": "2016/03/26",
-    "description": 'This map is a metal map, as you guys probably saw already. You can play 10 player ffa, 2v2v2v2v2, 5v5, 3v3v3v1. You can play shared or unshared. this map has everything you got and is by far the best in this mappack tight (Qzipco is wrong -G)",
+    "description": "This map is a metal map, as you guys probably saw already. You can play 10 player ffa, 2v2v2v2v2, 5v5, 3v3v3v1. You can play shared or unshared. this map has everything you got and is by far the best in this mappack tight (Qzipco is wrong -G)",
     "planets": [
         {
             "name": "10 player ffa bruuuh",
