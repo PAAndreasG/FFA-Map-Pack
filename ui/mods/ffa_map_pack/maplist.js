@@ -1,5 +1,5 @@
 cShareSystems.load_pas("FFA Map Pack", [
-	"coui://ui/mods/ffa_map_pack/systems/best_off_ladder",
+	"coui://ui/mods/ffa_map_pack/systems/best_off_ladder.pas",
 	"coui://ui/mods/ffa_map_pack/systems/ozora.pas",
 	"coui://ui/mods/ffa_map_pack/systems/caoslunch.pas",	
 	"coui://ui/mods/ffa_map_pack/systems/gangmunch.pas",	
