@@ -4,9 +4,6 @@
     "version": "1",
     "date": "2016/05/16",
     "description": "(3v3/ 6p ffa) You have all played these planets in the 1v1 Ranked Ladder. Now play them as a team with your friends. You will need at least 3 on a team or you will have a really bad day. GLHF",
-    "players": [
-        6,
-        10    ],
     "planets": [
         {
             "name": "Hephaestus",
